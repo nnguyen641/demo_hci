@@ -1,0 +1,16 @@
+.boot-footer {
+
+}
+
+.numbered {
+    border: 1px solid black;
+}
+
+.name-header div{
+    /* border: 1px solid black; */
+}
+
+.name-header-logo {
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif;
+    font-size: 64px;
+}
